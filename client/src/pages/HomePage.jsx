@@ -3,7 +3,7 @@ import React, { useContext, useState } from 'react'
 
 import RightSidebar from '../components/RightSidebar'
 import ChatContainer from '../components/ChatContainer'
-import Sidebar from '../components/sidebar'
+import Sidebar from '../components/Sidebar'
 import { ChatContext } from '../../context/ChatContext'
 
 
